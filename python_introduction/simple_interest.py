@@ -1,7 +1,7 @@
 # calculates the simple interest on a principal over a period of time
-p = 1000
-r = 0.05
-t = 3
-i = p*r*t
-print ("The simple interest is:", i)
+principal = 1000
+rate = 0.05
+time = 3
+interest = pricipal * rate * time
+print ("The simple interest is:", interest)
 
